@@ -6,5 +6,5 @@ export const handleStatus = res =>
         return param;
     }    
 
-    s
+
     
